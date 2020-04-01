@@ -38,14 +38,14 @@ def sorted_matrix
       "Oranges",
       "Watermelon",
       "Eggplant"
-    ],
+    ].sort,
     [
       "Strawberries",
       "Potatoes",
       "Grapes",
       "Avocadoes",
       "Asparagus"
-    ]
+    ].sort
 
 
   ]
